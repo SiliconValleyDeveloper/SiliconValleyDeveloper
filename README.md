@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SiliconValleyDeveloper
-- 👀 I’m interested to build or develop amazing apps
+- 👀 I’m interested to build or develop amazing apps with dart and Flutter.
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
