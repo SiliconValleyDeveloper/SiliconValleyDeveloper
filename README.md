@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Rawat
-- 👀 I’m interested to build or develop amazing apps with dart and Flutter.
+- 👀 I’m interested to build or develop amazing Webiste(Angular) with robust backend(.Net) and apps with dart and Flutter Framework.
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
