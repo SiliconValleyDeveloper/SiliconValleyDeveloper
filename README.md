@@ -32,4 +32,4 @@
 
 **Languages & Frameworks**
 ```ts
-Python • C# • .NET Core • Angular • Typescript • JavaScript • HTML5 • CSS3 • JQuery • XML
+• C# • .NET Core • Angular • Typescript • Python • Flutter • Dart • JavaScript • HTML5 • CSS3 • JQuery • XML
