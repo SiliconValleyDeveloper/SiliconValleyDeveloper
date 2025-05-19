@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Ankit Rawat
-- 👀 I’m interested to build or develop amazing Webiste(Angular) with robust backend(.Net) and apps with dart and Flutter Framework.
-- 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Ankit Rawat</h1>
+<h3 align="center">Full Stack Developer | Software Engineer</h3>
 
-<!---
-SiliconValleyDeveloper/SiliconValleyDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://www.siliconvalleydeveloper.in" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:ankitrawatt87@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitrawatt87@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ankitrwt87" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SiliconValleyDeveloper" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 About Me
+- 🔭 Currently working as a **Software Engineer** at **Chetu, Inc.**
+- 🌱 Learning and building **scalable systems with AWS** and advanced **State Management with Ngrx**
+- 💬 Ask me about **.NET Core, Angular, C#, MongoDB, REST APIs**
+- 👨‍💻 I love creating clean UI/UX and scalable backend solutions
+- ⚡ Fun fact: I enjoy learning new technologies and experimenting with micro SaaS projects
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+```ts
+C# • .NET Core • Angular • Typescript • JavaScript • HTML5 • CSS3 • JQuery • XML
