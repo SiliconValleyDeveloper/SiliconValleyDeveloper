@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently working as a **Software Engineer** at **Chetu, Inc.**
+- 🔭 Currently working as a **Software Engineer** in **India.**
 - 🌱 Learning and building **scalable systems with AWS** and advanced **State Management with Ngrx**
 - 💬 Ask me about **.NET Core, Angular, C#, MongoDB, REST APIs**
 - 👨‍💻 Passionate about full-stack development and intelligent systems
